@@ -132,6 +132,7 @@ function App() {
   return(
     <>
       <h1>Welcome to React</h1>
+      <h2>Thank you</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic odit, fuga doloremque culpa adipisci necessitatibus quae. Maxime eum impedit quis? Expedita facilis, magnam ratione nisi temporibus beatae laborum delectus fuga?</p>
       <Home />
       <About />
